@@ -1,5 +1,5 @@
 class Solution:
-    def sortedSquares(self, nums: List[int]) -> List[int]:
+    def sortedSquares(self, nums):
         squaredarray=[]
         for i in range(len(nums)):
             squaredarray.append(nums[i]**2)
