@@ -1,3 +1,9 @@
+# Sort the array which is a list of strings, 
+# Take two strings -- first and last
+# Loop through each character in the string and check if they are equal
+# return when they are inequal
+# Until then keep adding the characters of either first or last string into answer (output) string
+
 from typing import List
 
 class Solution:
