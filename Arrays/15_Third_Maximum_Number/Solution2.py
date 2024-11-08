@@ -1,3 +1,4 @@
+from cmath import inf
 from typing import List
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:
