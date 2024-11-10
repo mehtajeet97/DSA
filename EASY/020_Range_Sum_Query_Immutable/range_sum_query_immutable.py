@@ -1,3 +1,6 @@
+# Prefix Array is used to predefine the sums of each increaing array element
+# Example : if array is [1, 2, 3] the prefix array will be [1, 3, 6]
+
 from typing import List
 
 class NumArray:
